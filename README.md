@@ -3,6 +3,8 @@
 Project Summary: This project focused on analyzing data of "MeriSKILL". Objective is that, Analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making. 
 
 
+Steps Followed :
+
     Data Cleaning: Remove all errors, inconsistencies and duplicates data from data sheet.
     Data Processing: Prepared the data for analysis by organizing and formatting it appropriately.
     Data Analysis: Employed various analytical techniques to derive insights and draw meaningful conclusions.
